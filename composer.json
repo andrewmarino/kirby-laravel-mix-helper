@@ -1,0 +1,7 @@
+{
+  "name": "arm/kirby-laravel-mix-helper",
+  "description": "Laravel’s mix() helper function adapted to a Kirby 3 plugin",
+  "type": "kirby-plugin",
+  "version": "0.1.0",
+  "license": "MIT"
+}
